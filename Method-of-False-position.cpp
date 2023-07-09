@@ -35,6 +35,7 @@ int main() {
                 fa = fc;
             }
         }
+    cout << "Root of the given equation = " << c << endl;
     
     return 0;
 }
